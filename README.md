@@ -6,6 +6,28 @@ VERIXA is an enterprise-grade placement preparation platform designed to help st
 
 ---
 
+## 📸 Application Screenshots
+
+### 🏠 Landing & Placement Engine Overview
+![Landing Page](docs/screenshots/landing.png)
+
+---
+
+### 💻 Data Structures & Algorithms Practice Bank
+![DSA Practice Bank](docs/screenshots/dsa-practice.png)
+
+---
+
+### 🎙️ AI HR Voice & Text Mock Interview Session
+![AI HR Mock Interview](docs/screenshots/ai-interview.png)
+
+---
+
+### 🏆 Live Weekly Placement Contest Arena
+![Weekly Contest Arena](docs/screenshots/contests.png)
+
+---
+
 ## 🌟 Key Features
 
 ### 🏢 1. Target Company & Role Preparation Engine
