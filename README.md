@@ -1,6 +1,6 @@
 # 🚀 VERIXA — Smart AI-Powered Placement & Technical Interview Platform
 
-> **Prepare smarter. Practice realistically. Get interview ready.**
+> Prepare smarter. Practice realistically. Get interview ready
 
 VERIXA is an enterprise-grade placement preparation platform designed to help students and candidates prepare for top product and IT recruitment drives (such as TCS Ninja/Digital, Product Companies, and Tech Roles). It combines target-company roadmaps, sandboxed Java code execution, voice-supported AI HR mock interviews, resume skill gap analysis, and real-time performance analytics.
 
