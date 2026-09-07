@@ -6,8 +6,7 @@ VERIXA is an enterprise-grade placement preparation platform designed to help st
 
 ---
 
-## 📸 Application Screenshots
-
+## 📸------------ Application Screenshots ---------
 ### 🏠 Landing & Placement Engine Overview
 ![Landing Page](docs/screenshots/landing.png)
 
