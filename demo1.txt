@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-This is good commit 
+This is good commit
+
+This is bad commit ,issue
 
 This is also good commmit 
-=======
-This is good commit 
->>>>>>> parent of ba7a798 (This is bad commit)
