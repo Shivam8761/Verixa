@@ -1,3 +1,4 @@
+
 This is good commit
-This is bad commit
-This is also good commit  
+This is also good commit 
+This is good commit 
